@@ -6,3 +6,7 @@ Program execution requires openGL.
 
 Libraries required : freeGlut & glew
 No additional command line arguments are needed.
+
+Output:
+
+![](screenshot.gif)
