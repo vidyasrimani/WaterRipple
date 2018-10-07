@@ -9,4 +9,4 @@ No additional command line arguments are needed.
 
 Output:
 
-![](screenshot.gif)
+![](WaterRipple.gif)
